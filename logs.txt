@@ -1,0 +1,166 @@
+Bot Logs:
+
+The hangman command was added.
+The hangman command was reloaded.
+The hangman command was reloaded.
+The monopoke command was added.
+The monopoke command was reloaded.
+The monopoke command was reloaded.
+The monopoke command was reloaded.
+The berry command was added.
+The berry command was reloaded.
+To do: Complete quickpoll, nexttype, inspireme, randpoke, rt, VR, SS, PM commands.
+The inspireme command was added.
+Add invites, as well.
+The inspireme command was reloaded.
+The vr command was added.
+The vr command was reloaded.
+The rt command was added.
+unleashourpassion was locked.
+unleashourpassion has been unlocked.
+The test command was added.
+The vote command was added.
+The nexttype command was reloaded.
+The nexttype command was reloaded.
+The nexttype command was reloaded.
+dragonmirror has been unlocked.
+The life command was added.
+1vjc a159 was promoted to Beta.
+The alias command was added.
+The alias command was reloaded.
+The alias command was reloaded.
+The hm alias was added to hangman.
+The poll alias was added to nexttype.
+The nt alias was added to nexttype.
+The nt command was reloaded.
+The nexttype command was reloaded.
+The nt command was reloaded.
+The nexttype command was reloaded.
+The restart command was added.
+The restart command was reloaded.
+The commands command was reloaded.
+The commands command was reloaded.
+The commands command was reloaded.
+The gamma command was reloaded.
+The commands command was reloaded.
+The alpha command was reloaded.
+The beta command was reloaded.
+The gamma command was reloaded.
+The inspireme command was reloaded.
+The im alias was added to inspireme.
+The rp alias was added to inspireme.
+The inspireme command was reloaded.
+The im command was reloaded.
+The rp command was reloaded.
+The nexttype command was reloaded.
+The nexttype command was reloaded.
+The nt alias was added to nexttype.
+The poll alias was added to nexttype.
+The lol command was reloaded.
+unleashourpassion was locked.
+unleashourpassion has been unlocked.
+The commands command was reloaded.
+1v1sp has been unlocked.
+maybe1v1sp was locked.
+maybe1v1sp has been unlocked.
+1v1sp has been unlocked.
+UOP is afk was promoted to Gamma.
+UOP is afk was promoted to Beta.
+UOP is afk was promoted to Gamma.
+UOP is afk was promoted to Beta.
+dragonmirror was locked.
+dragonmirror has been unlocked.
+The gif command was added.
+The gif command was reloaded.
+The gif command was reloaded.
+The pat command was added.
+The gif command was reloaded.
+The nexttype command was reloaded.
+The nexttype command was reloaded.
+The roast command was added.
+The roast command was reloaded.
+The roast command was reloaded.
+The gif command was reloaded.
+The gif command was reloaded.
+The gif command was reloaded.
+The gif command was reloaded.
+The gif command was reloaded.
+The nexttype command was reloaded.
+The nt alias was added to nexttype.
+The poll alias was added to nexttype.
+The nexttype command was reloaded.
+The nt alias was added to nexttype.
+The poll alias was added to nexttype.
+The poll command was reloaded.
+The nt command was reloaded.
+The nt command was reloaded.
+The lock command was reloaded.
+unleashourpassion has been unlocked.
+The gif command was reloaded.
+1v1sp was locked.
+The overpay command was added.
+The q command was reloaded.
+1v1sp has been unlocked.
+The gif command was reloaded.
+The gif command was reloaded.
+The gif command was reloaded.
+The gif command was reloaded.
+The gif command was reloaded.
+The gif command was reloaded.
+The gif command was reloaded.
+The roast command was reloaded.
+The gif command was reloaded.
+The roast command was reloaded.
+The roast command was reloaded.
+tallydaorangez was promoted to Alpha.
+The rps command was added.
+The roast command was reloaded.
+The rps command was reloaded.
+The rps command was reloaded.
+The rps command was reloaded.
+The 2v2 command was added.
+The inverse command was added.
+The inverse command was reloaded.
+The uu command was added.
+The aaa command was added.
+The stabmons command was added.
+The ag command was added.
+The uu command was reloaded.
+pokesartoolcay was locked.
+pokesartoolcay has been unlocked.
+The poll command was reloaded.
+The ag command was reloaded.
+1_v_1_s_p was promoted to Gamma.
+The monotype command was added.
+The poll command was reloaded.
+The uwu command was added.
+The owo command was added.
+The vote command was reloaded.
+The lc command was added.
+The poke command was added.
+The delay command was added.
+The delay command was reloaded.
+thepanthar was locked.
+The delay command was reloaded.
+foreverflame was locked.
+foreverflame has been unlocked.
+ryyjyywyy was promoted to Gamma.
+ryyjyywyy was promoted to Beta.
+tapiocatopic was promoted to Gamma.
+TypeBot was promoted to Gamma.
+VG Jungle was promoted to Gamma.
+z.e.r.u.o.r.a was promoted to Gamma.
+The vote command was reloaded.
+The cap command was added.
+TapiocaTopic was promoted to Gamma.
+TapiocaTopic was promoted to Beta.
+PartCoding was promoted to Gamma.
+PartCoding was promoted to Beta.
+VG Jungle was promoted to Gamma.
+FIREEEE was promoted to Gamma.
+ZeitoKrabby was promoted to Gamma.
+ryyjyywyy was promoted to Gamma.
+ryyjyywyy was promoted to Beta.
+LostHeros was promoted to Gamma.
+LostHeros was promoted to Beta.
+The ranks command was added.
